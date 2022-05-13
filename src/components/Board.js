@@ -5,7 +5,7 @@ import Letter from './Letter'
 export default function Board() {
     const [board, setBoard] = useState(boardDefault)
   return (
-    <div className="board">
+    <div className="board d-flex">
         {" "}
         <div className="row">
             <Letter letterPos={0} attemptValue={0}/>
