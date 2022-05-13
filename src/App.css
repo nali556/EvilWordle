@@ -1,0 +1,14 @@
+*{
+  background-color: rgb(20, 20, 20);
+  color: white;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+.title{
+  font-size: xx-large;
+  font-weight: 700;
+}
+
+nav{
+  border-bottom: 1px solid grey;
+}
